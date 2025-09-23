@@ -1,0 +1,26 @@
+leftnav:
+- identifier: c6325257-7be5-06e6-3970-110359b5ee99
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 94fe3330-4afe-030b-73b8-7c3dae7dc3b9
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: d20516af-27af-32f9-e870-4b742e264dde
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: c62260bb-773a-cea7-4cd0-1dae71b9bf39
+  name: Lecture Slides
+  pageRef: /pages/lecture-slides
+  weight: 40
+- identifier: 7b55fbcb-c880-6383-02a6-77a8151fc9ca
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 50
+- identifier: 77e29f19-21cb-95fe-72bc-e5e1eb9604b4
+  name: Phoenix Forge Role-Play
+  pageRef: /pages/assignments/phoenix-forge-role-play
+  parent: 7b55fbcb-c880-6383-02a6-77a8151fc9ca
+  weight: 60
