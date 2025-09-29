@@ -4,6 +4,8 @@ description: ''
 file: /courses/11-437-financing-economic-development-fall-2016/4755da60f5eb46be070690ba1b87664c_MIT_11437_DEGCReport_UpdatedJuly2017.pdf
 file_size: 2293734
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: ''
 file: /courses/11-437-financing-economic-development-fall-2016/13838fa9d7730185881142809759ad5e_MIT11_437F16_CityPlaza.pdf
 file_size: 197017
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

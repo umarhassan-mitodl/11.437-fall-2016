@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: This section contains selected lecture slides from the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -10,7 +12,7 @@ uid: c62260bb-773a-cea7-4cd0-1dae71b9bf39
 
 {{< resource d0bc7c13-6be9-3703-f362-a3ae6cffa890 >}}
 
-Courtesy of {{% resource_link "de36162d-1480-4399-aaaf-023a56fdb0a6" "Edmonton Economic Development Corporation" %}} on Flickr. CC BY-NC-SA.
+Courtesy of [Edmonton Economic Development Corporation](https://flic.kr/p/e8LHRG) on Flickr. CC BY-NC-SA.
 
 {{% resource_link f0b74950-0d39-12f4-4c3e-2cefd3894f21 "Lecture 2: Frameworks (PDF)" %}}
 
